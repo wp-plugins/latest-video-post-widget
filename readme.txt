@@ -1,4 +1,4 @@
-=== Latest Video Post Widget ===
+=== Latest Video ===
 Contributors: WebCodeWrap
 Website: http://webcodewrap.com
 Tags: wordpress, latest, video, post, widget, designer, marketer, plugin
@@ -18,6 +18,7 @@ Special features:
 - Shows the latest video embedded with iframe.
 - Link to post title containing the video.
 - Link to category containing the video post.
+- Responsive, compatible with small devices.
 - Very lightweight.
 
 

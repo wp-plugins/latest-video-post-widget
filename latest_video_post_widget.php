@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Latest Video Post Widget
+Plugin Name: Latest Video
 Plugin URI: http://webcodewrap.com
 Description: A widget that shows the latest post that contains video embedded with iframe.
 Author: WebCodeWrap
