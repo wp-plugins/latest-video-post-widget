@@ -5,7 +5,7 @@ Plugin URI: http://webcodewrap.com
 Description: A widget that shows the latest post that contains video embedded with iframe.
 Author: WebCodeWrap
 Author URI: http://webcodewrap.com
-Version: 1.0.1
+Version: 1.0.2
 Text Domain: latest-video-post-widget
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
