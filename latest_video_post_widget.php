@@ -109,7 +109,8 @@ class webcodewrap_latestvideopost extends WP_Widget {
 		<p>
 			<label for="<?php echo $this->get_field_id('width'); ?>"><?php _e('Width:', 'latest-video-widget'); ?></label>
 			<input class="widefat" style="width: 80px;" id="<?php echo $this->get_field_id('width'); ?>" name="<?php echo $this->get_field_name('width'); ?>" value="<?php echo $instance['width']; ?>" />
-
+        </p>
+        <p>
 			<label for="<?php echo $this->get_field_id('height'); ?>"><?php _e('Height:', 'latest-video-widget'); ?></label>
 			<input class="widefat" style="width: 80px;" id="<?php echo $this->get_field_id('height'); ?>" name="<?php echo $this->get_field_name('height'); ?>" value="<?php echo $instance['height']; ?>" />
 		</p>
