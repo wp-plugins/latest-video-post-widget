@@ -21,6 +21,9 @@ Features:
 - Responsive, compatible with small devices.
 - Very lightweight.
 
+Links:
+- For more information please visit the <a href="http://webcodewrap.com/latest-video/">Demo</a>
+
 
 Produced By [WebCodeWrap](http://webcodewrap.com/)
 
