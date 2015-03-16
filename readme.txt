@@ -13,7 +13,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A widget that shows the latest post that contains video embedded with iframe.
 
 
-Special features:
+Features:
 
 - Shows the latest video embedded with iframe.
 - Link to post title containing the video.
