@@ -22,6 +22,8 @@ Features:
 - Very lightweight.
 
 
+Produced By [WebCodeWrap](http://webcodewrap.com/)
+
 == Installation ==
 1. Upload `latest-video-post-widget` folder to your `/wp-content/plugins/` directory.
 2. Activate the plugin.
@@ -34,8 +36,8 @@ Features:
 
 
 == Screenshots ==
-1. Plugin Settings
-2. Plugin Preview
+1. Widget Settings
+2. Widget Preview
 
 
 == Change Log ==
