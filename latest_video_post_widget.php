@@ -122,6 +122,9 @@ class webcodewrap_latestvideopost extends WP_Widget {
 			<input type="checkbox" class="checkbox" id="<?php echo $this->get_field_id('categorytitlelink'); ?>" name="<?php echo $this->get_field_name('categorytitlelink'); ?>"<?php checked( $categorytitlelink ); ?> />
 			<label for="<?php echo $this->get_field_id('categorytitlelink'); ?>"><?php _e( 'Show post category', 'latest-video-widget' ); ?></label>
 		</p>
+        <p>
+            <label>Leave Height and Width fields blank for responsive view.</label>       
+        </p>
 		<?php
 	}
 }
